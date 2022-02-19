@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file alias="Button.qml">Button.qml</file>
+        <file alias="FileDialogs.qml">FileDialogs.qml</file>
+        <file alias="FontDialogs.qml">FontDialogs.qml</file>
+        <file alias="MainView.qml">MainView.qml</file>
+    </qresource>
+</RCC>

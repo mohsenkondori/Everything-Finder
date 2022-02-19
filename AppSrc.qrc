@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/AppIcon.png</file>
+        <file>Icons/Browse.png</file>
+        <file>Icons/Search.png</file>
+        <file>Icons/Stop.png</file>
+        <file>Icons/Home.png</file>
+    </qresource>
+</RCC>
